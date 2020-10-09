@@ -164,6 +164,6 @@ if (msj.content === "xd") {
 
     **                          **\`ThêÂys ❤️ Prensees\``)
 
-    client.channels.get(`763356669102522378`).fetchMessage(`759008723229999105`).then(msg => (msg.edit(say)))
-  }, 240000)
+    client.channels.get(`763829695074533416`).fetchMessage(`764197708050989088`).then(msg => (msg.edit(say)))
+  }, 60000)
 });
