@@ -131,7 +131,7 @@ if (msj.content === "xd") {
     for (const [id, voiceChannel] of voiceChannels) count += voiceChannel.members.size
     let kız = guild.roles.find(x => x.name === `Petticoat`)
     let erkek = guild.roles.find(x => x.name === `Masculine`)
-    let kayıtsız = guild.roles.find(x => x.name === `Lost İs Rain`)
+    let kayıtsız = guild.roles.find(x => x.name === `Lost Is Santiana`)
     let taglı = guild.roles.find(x => x.name === `Shiura Of Santiana`)
     let booster = guild.roles.find(x => x.name === `⚚ Santiana Rich`)
     let yetkili = guild.roles.find(x => x.name === `Nerfisia`)
@@ -153,7 +153,7 @@ if (msj.content === "xd") {
     <a:a_:764039075631333378> **Petticoat :** \`${kız.members.size}\`
     <a:n_:764039075849961484> **Masculine :** \`${erkek.members.size}\`
 
-    <a:a_:764039075631333378> **Lost İs Santiana :** \`${kayıtsız.members.size}\`
+    <a:a_:764039075631333378> **Lost Is Santiana :** \`${kayıtsız.members.size}\`
 
     <a:santiana_staff:764044342104424449> **Toplam Yetkili :** \`${yetkili.members.size}\`
 
