@@ -141,7 +141,7 @@ if (msj.content === "xd") {
     let say = new Discord.RichEmbed()
     .setColor(`AQUA`)
     .setThumbnail(guild.iconURL)
- .setImage(`https://giphy.com/gifs/netflix-henry-cavill-the-witcher-geralt-of-rivia-dViEHfMyu53fTx6qVf`)
+ .setImage(`https://cdn.discordapp.com/attachments/764231357110681652/764271203778428938/ezgif-4-5f4f1e0b0fa3.gif`)
     .setDescription(`
     <a:s_:764039076101488660> **Santiana :** \`${guild.members.size}\`
     <a:a_:764039075631333378> **Aktif :** \`${guild.members.filter(member => member.presence.status !== 'offline').size}\`
